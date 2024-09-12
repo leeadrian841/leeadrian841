@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🔭 I’m currently working on cybersecurity projects and virtual homelab.
-🤝 I’m looking for help with growing my skillsets for cybersecurity.
-🌱 I’m currently learning cybersecurity.
-💬 Ask me about product management, user experience design and software architecture.
-⚡ I like to workout in gym and collect pokemon TCG cards.
+- 🔭 I’m currently working on cybersecurity projects and virtual homelab.
+- 🤝 I’m looking for help with growing my skillsets for cybersecurity.
+- 🌱 I’m currently learning cybersecurity.
+- 💬 Ask me about product management, user experience design and software architecture.
+- ⚡ I like to workout in gym and collect pokemon TCG cards.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leeadrian841) 
